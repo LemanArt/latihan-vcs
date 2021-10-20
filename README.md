@@ -19,3 +19,7 @@ pindahkan ke disk D:latihanvcs dengan cara "cd /d/latihanvcs", kemudian lakukan 
 ### Push ke github
 Lakukan push ke github dengan cara ketik "git push -u origin main" lalu enter
 ![gambar5](ss/4.png)
+
+### Selesai
+file yang telah di push akan muncul di repository github
+![gambar6](ss/finish.png)
