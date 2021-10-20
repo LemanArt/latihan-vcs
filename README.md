@@ -7,6 +7,8 @@ buat folder di localdisk:D
 ![gambar1](ss/createfolder.png)
 
 ### buka gitbash lalu pindahkan ke folder d/latihanvcs
-pindahkan ke disk D:latihanvcs dengan cara "cd /d/latihanvcs"
-buat folder di localdisk:D
+pindahkan ke disk D:latihanvcs dengan cara "cd /d/latihanvcs", kemudian lakukan git clone
 ![gambar2](ss/1.png)
+
+### Masuk repository lalu tambahkan file html
+![gambar2](ss/2.png)
