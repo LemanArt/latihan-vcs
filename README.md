@@ -11,4 +11,7 @@ pindahkan ke disk D:latihanvcs dengan cara "cd /d/latihanvcs", kemudian lakukan 
 ![gambar2](ss/1.png)
 
 ### Masuk repository lalu tambahkan file html
-![gambar2](ss/2.png)
+![gambar3](ss/2.png)
+
+### Buat commit atas file yang ditambahkan
+![gambar4](ss/3.png)
