@@ -4,4 +4,4 @@
 
 ### Membuat folder
 buat folder di localdisk:D
-![img]ss/createfolder.png
+![Gambar 1](ss/createfolder.png)
